@@ -1,0 +1,120 @@
+{
+  "common": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "joinNow": "Join Now",
+    "askUs": "Ask Us Anything"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "howItWorks": "How It Works",
+    "performance": "Performance",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Elite Trading Strategies for Maximum Returns",
+      "subtitle": "Join Safe Trade for expert-managed PAMM accounts with transparent 50/50 profit sharing"
+    },
+    "about": {
+      "title": "Who We Are",
+      "content": "Safe Trade is a collective of expert traders, recognized for elite strategies and consistent performance."
+    }
+  },
+  "about": {
+    "title": "About Safe Trade",
+    "whoWeAre": {
+      "title": "Who is Safe Trade?",
+      "content": "Safe Trade is a collective of expert traders, recognized for elite strategies and consistent performance. We specialize in managing PAMM accounts at Vantage International, focusing exclusively on XAUUSD (Gold/USD) and USTECH (Nasdaq index) for maximum results."
+    },
+    "approach": {
+      "title": "Our Unique Approach",
+      "content": "Our team of top traders focuses exclusively on XAUUSD (Gold/USD) and USTECH (Nasdaq), each with a proven strategy."
+    },
+    "partnership": {
+      "title": "Official Partnership",
+      "content": "We are officially partnered with Vantage International broker with over 15 years of experience."
+    },
+    "profitSharing": {
+      "title": "50/50 Profit Sharing",
+      "content": "Our 50/50 profit sharing model is better than the industry standard (usually 80/20), ensuring we only profit when you do."
+    },
+    "transparency": {
+      "title": "Transparency & Control",
+      "content": "We emphasize transparency, client control, and no direct deposit to us. Your funds always remain in your own Vantage account."
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "steps": {
+      "step1": {
+        "title": "Register with Vantage International",
+        "content": "Register with Vantage International using our referral."
+      },
+      "step2": {
+        "title": "Verify and Fund",
+        "content": "Verify your profile, open, and fund a PAMM account."
+      },
+      "step3": {
+        "title": "Grant Access",
+        "content": "Grant management access to Safe Trade (fully secure)."
+      },
+      "step4": {
+        "title": "Track Profits",
+        "content": "Sit back and relax—our team trades while you track profits in real-time."
+      },
+      "step5": {
+        "title": "Profit Sharing",
+        "content": "50/50 profit split at the end of each trading period. No profit means no fees."
+      }
+    }
+  },
+  "performance": {
+    "title": "Performance & Results",
+    "historicalPerformance": "Historical Performance",
+    "clientTestimonials": "Client Testimonials"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": {
+      "q1": {
+        "question": "Is my money safe with Safe Trade?",
+        "answer": "Yes, your funds always remain in your own Vantage International account. We never have direct access to withdraw your funds."
+      },
+      "q2": {
+        "question": "How does the PAMM account work?",
+        "answer": "PAMM (Percentage Allocation Management Module) allows you to allocate a portion of your funds to be managed by professional traders while maintaining full control of your account."
+      },
+      "q3": {
+        "question": "Can I withdraw my funds at any time?",
+        "answer": "Yes, you have complete control over your account and can withdraw your funds at any time."
+      },
+      "q4": {
+        "question": "How is risk managed?",
+        "answer": "Our team employs strict risk management protocols, limiting exposure and using strategic stop-losses to protect your investment."
+      },
+      "q5": {
+        "question": "How does the 50/50 profit sharing work?",
+        "answer": "At the end of each trading period, any profits generated are split equally between you and Safe Trade. If no profit is made, we don't charge any fees."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact & Support",
+    "getInTouch": "Get in Touch",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "contactMethods": {
+      "telegram": "Telegram",
+      "whatsapp": "WhatsApp",
+      "email": "Email"
+    }
+  }
+}
